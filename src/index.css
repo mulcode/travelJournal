@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.app-conent{
+   width: 550px;
+   margin: 10px auto;
+    border: 1px solid red;
+}
+.nav{
+    background-color: rebeccapurple;
+}
+.place-content{
+    width: 471px;
+    height: 168px;
+    border: 1px solid red;
+    margin: 30px auto;
+    display: flex;
+}
+.right{
+    margin: 10px;
+    
+}
